@@ -1,0 +1,6 @@
+@David_Owens_GP_4._3_HostAddress = http://localhost:5049
+
+GET {{David_Owens_GP_4._3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
